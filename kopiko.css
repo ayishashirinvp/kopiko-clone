@@ -1,0 +1,45 @@
+.container-fluid{
+    background-color: black;
+    
+}
+.brandname{
+     cursor: pointer;
+    color: #b7b7b7;
+    font-size: 40px;
+    font-weight: normal;
+    font-style: normal;
+    line-height: 1.15;
+    letter-spacing: 6.5px;
+    text-transform: uppercase;
+    font-family: "Playfair Display", serif;
+    text-align: center;
+    padding-top: 30px;
+    text-decoration: none
+
+    
+
+}
+.name-description{
+    color: #b7b7b7;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    margin: 4px;
+    text-align: center;
+    word-wrap: break-word;
+    font-size: 0.75rem;
+    
+}
+
+#hover{
+ color: red;
+}
+
+
+ul li a
+{
+    color: red;
+}
